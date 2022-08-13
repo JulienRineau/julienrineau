@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @julienrineau
-- 👀 I’m interested in Robotics and Web Development
-- 🌱 I’m currently learning ROS & React
+- 👀 I build autonomous systems
 - 📫 Reach me at julien.rineau@berkeley.edu
 
 <!---
