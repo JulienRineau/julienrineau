@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @julienrineau
-- 👀 I build autonomous systems
+- 👀 I build robots
 - 📫 Reach me at julien.rineau@berkeley.edu
 
 <!---
