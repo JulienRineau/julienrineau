@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @julienrineau
-- 👀 I build robots
+- 👀 I make robots walk
 - 📫 Reach me at julien.rineau@berkeley.edu
 
 <!---
